@@ -1,0 +1,67 @@
+{
+  "lang": {
+    "hindi": "Hindi",
+    "english": "English",
+    "iconLabel": "Change language"
+  },
+  "theme": {
+    "iconLabel": "Toggle theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "app": {
+    "author": "Amandeep Singh",
+    "version": "1.0.0",
+    "description": "A simple app",
+    "appName": "App",
+    "copyright": "Copyright © {{year}}"
+  },
+  
+  
+  "sliderh1": "Illuminate Your Path with Solar Street Lights",
+  "sliderp1": "Harness the power of the sun for a brighter, greener tomorrow. Our Solar Street Lights offer sustainable lighting solutions for streets, parks, and more",
+   
+  "sliderh2": "Solar Panels",
+  "sliderp2": "Clean energy for a better future. Our solar panels are easy to use and help save the environment.",
+  
+  "sliderh3": "Solar Inverters & Batteries",
+  "sliderp3": "Easy, eco-friendly energy solutions for your home.",
+  
+   "AboutUs":"About Us",
+   "AboutUsTitle":"5+ Years of Expertise in Solar Panels.",
+   "AboutUsDescription":"We provide high-quality solar energy solutions like solar panels, street lights, solar inverters, batteries, and home solar systems. Our goal is to bring clean, affordable energy for a better future.",
+   "AboutUsPoint1":"High-efficiency solar panels.",
+   "AboutUsPoint2":"Durable solar street lights.",
+   "AboutUsPoint3":"Reliable solar inverters and batteries.",
+   "AboutUsPoint4":"Complete home solar systems.",
+   "ourServices": "Our Services",
+    "comprehensiveSolar": "Comprehensive Solar Energy Solutions",
+    "solarPanels": "Solar Panels",
+    "solarPanelsDescription": "High-performance solar panels for residential and commercial use.",
+    "solarStreetLights": "Solar Street Lights",
+    "solarStreetLightsDescription": "Durable and efficient solar-powered street lighting systems.",
+    "solarInverters": "Solar Inverters & Batteries",
+    "solarInvertersDescription": "Reliable inverters and batteries for uninterrupted power supply.",
+    "readMore": "Read More",
+    "freeQuote": "Free Quote",
+    "getFreeQuote": "Get A Free Quote",
+    "quoteDescription": "Looking to harness the power of solar energy? Whether it's for solar panels, street lights, solar inverters and batteries, or a complete home solar system, we’ve got you covered. Contact us today to receive a personalized, no-obligation quote tailored to your needs.",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "yourMobile": "Your Mobile",
+    "selectService": "Select A Service",
+    "service1": "Service 1",
+    "service2": "Service 2",
+    "service3": "Service 3",
+    "specialNote": "Special Note",
+    "submit": "Submit",
+    "contactUs": "Contact Us",
+  "feelFreeContact": "Feel Free To Contact Us",
+  "contactDescription": "We'd love to hear from you! Please fill out the form below, and we'll get back to you as soon as possible.",
+  "subject": "Subject",
+  "leaveMessage": "Leave a message here",
+  "message": "Message",
+  "sendMessage": "Send Message"
+   
+}
